@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\MGQSC#CLASS\TextScrambler\bin\Debug\net7.0\TextScrambler.exe
+C:\Users\DELL\Desktop\MGQSC#CLASS\TextScrambler\bin\Debug\net7.0\TextScrambler.deps.json
+C:\Users\DELL\Desktop\MGQSC#CLASS\TextScrambler\bin\Debug\net7.0\TextScrambler.runtimeconfig.json
+C:\Users\DELL\Desktop\MGQSC#CLASS\TextScrambler\bin\Debug\net7.0\TextScrambler.dll
+C:\Users\DELL\Desktop\MGQSC#CLASS\TextScrambler\bin\Debug\net7.0\TextScrambler.pdb
+C:\Users\DELL\Desktop\MGQSC#CLASS\TextScrambler\obj\Debug\net7.0\TextScrambler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\MGQSC#CLASS\TextScrambler\obj\Debug\net7.0\TextScrambler.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\MGQSC#CLASS\TextScrambler\obj\Debug\net7.0\TextScrambler.AssemblyInfo.cs
+C:\Users\DELL\Desktop\MGQSC#CLASS\TextScrambler\obj\Debug\net7.0\TextScrambler.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\MGQSC#CLASS\TextScrambler\obj\Debug\net7.0\TextScrambler.dll
+C:\Users\DELL\Desktop\MGQSC#CLASS\TextScrambler\obj\Debug\net7.0\refint\TextScrambler.dll
+C:\Users\DELL\Desktop\MGQSC#CLASS\TextScrambler\obj\Debug\net7.0\TextScrambler.pdb
+C:\Users\DELL\Desktop\MGQSC#CLASS\TextScrambler\obj\Debug\net7.0\TextScrambler.genruntimeconfig.cache
+C:\Users\DELL\Desktop\MGQSC#CLASS\TextScrambler\obj\Debug\net7.0\ref\TextScrambler.dll

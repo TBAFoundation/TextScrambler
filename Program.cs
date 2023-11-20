@@ -1,0 +1,3 @@
+﻿using TextScrambler;
+
+Menu.StartScrambling();
